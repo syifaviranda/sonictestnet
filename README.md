@@ -1,8 +1,9 @@
 # sonictestnet
 
 # Clone Repository
-git clone https://github.com/jamikoas/sonic-odyssey-bot
-cd sonic-odyssey-bot
+git clone https://github.com/syifaviranda/sonictestnet
+cd sonictestnet
+
 npm install
 Edit Private Key json
 nano privateKeys.json
